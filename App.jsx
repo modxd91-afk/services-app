@@ -341,3 +341,6 @@ export default function App() {
     </div>
   );
 }
+
+// تعديل بسيط للتأكيد على التغيير والرفع في GitHub
+// Added this comment to trigger commit - Grok edit on August 10, 2025
